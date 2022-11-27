@@ -1,0 +1,13 @@
+list-unstyled li {
+    float: left;
+    padding-right: 5%;
+}
+
+.list-unstyled {
+    height: 20px;
+    display: block;
+}
+
+.list-unstyled li:first-child {
+    margin-top: 7px;
+}
